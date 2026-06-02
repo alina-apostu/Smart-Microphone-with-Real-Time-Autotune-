@@ -77,6 +77,13 @@ Titlu: Verificarea lanțului audio și a funcției de Mute.
 
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/613ec32b-e93e-44df-9519-97a5b27f61e3" />
 
+<img width="3163" height="1808" alt="image" src="https://github.com/user-attachments/assets/48eb3343-fbd4-4618-bd90-901fa506abf5" />
+<img width="3153" height="1799" alt="image" src="https://github.com/user-attachments/assets/75def60e-f36b-4cbe-b267-a1c999817f26" />
+<img width="3145" height="1645" alt="image" src="https://github.com/user-attachments/assets/8ab7e19c-baf7-47cd-a69c-ba90b4c8102a" />
+
+
+
+
 
 
 
